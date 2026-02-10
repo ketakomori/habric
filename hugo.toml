@@ -1,4 +1,6 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://ketakomori.github.io/habric/"
+canonifyURLs = true
+
 title = "Habric"
 
 theme = "PaperMod"

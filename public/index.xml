@@ -2,56 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Habric</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/habric/</link>
     <description>Recent content on Habric</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 10 Feb 2026 17:37:09 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/habric/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Article</title>
-      <link>http://localhost:1313/article/first-article/</link>
+      <link>http://localhost:1313/habric/article/first-article/</link>
       <pubDate>Tue, 10 Feb 2026 17:37:09 +0900</pubDate>
-      <guid>http://localhost:1313/article/first-article/</guid>
+      <guid>http://localhost:1313/habric/article/first-article/</guid>
       <description></description>
     </item>
     <item>
       <title>Habricって何？</title>
-      <link>http://localhost:1313/notes/first-article/</link>
+      <link>http://localhost:1313/habric/notes/first-article/</link>
       <pubDate>Tue, 10 Feb 2026 17:32:53 +0900</pubDate>
-      <guid>http://localhost:1313/notes/first-article/</guid>
+      <guid>http://localhost:1313/habric/notes/first-article/</guid>
       <description>&lt;p&gt;Habric(ハブリックと読みます) = Fabric+Habitat&lt;/p&gt;
 &lt;p&gt;Habricとはなんでしょう？&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Note</title>
-      <link>http://localhost:1313/notes/first/</link>
+      <link>http://localhost:1313/habric/notes/first/</link>
       <pubDate>Tue, 10 Feb 2026 12:20:15 +0900</pubDate>
-      <guid>http://localhost:1313/notes/first/</guid>
+      <guid>http://localhost:1313/habric/notes/first/</guid>
       <description></description>
     </item>
     <item>
       <title>First Log</title>
-      <link>http://localhost:1313/log/first/</link>
+      <link>http://localhost:1313/habric/log/first/</link>
       <pubDate>Tue, 10 Feb 2026 11:59:27 +0900</pubDate>
-      <guid>http://localhost:1313/log/first/</guid>
+      <guid>http://localhost:1313/habric/log/first/</guid>
       <description>&lt;p&gt;初めまして、エディターの小森といいます。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Habricという新しい場所を立ち上げました。初めは自分が一人で運営していきますが、開けたプラットフォームにしていきます。これから何卒よろしくお願いします。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Article</title>
-      <link>http://localhost:1313/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/article/</guid>
-      <description>&lt;p&gt;ここに制作ツールや編集環境をまとめていく。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Editor</title>
-      <link>http://localhost:1313/editor/</link>
+      <link>http://localhost:1313/habric/editor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/editor/</guid>
+      <guid>http://localhost:1313/habric/editor/</guid>
       <description>&lt;h1 id=&#34;profile&#34;&gt;Profile&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;Keta Komori&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/solophoto.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Keta Komori&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/habric/images/solophoto.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;小森 敬太&lt;/p&gt;
 &lt;p&gt;1999年3月22日生まれ　東京都出身&lt;/p&gt;
 &lt;p&gt;高校卒業とともにソロでの音楽制作を開始、2024年からオルタナティブロックバンド「peal」のGt/Voとして活動開始。全楽曲の作詞・作曲を手がける。&lt;/p&gt;
@@ -77,17 +70,17 @@
     </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/music/</link>
+      <link>http://localhost:1313/habric/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/music/</guid>
+      <guid>http://localhost:1313/habric/music/</guid>
       <description>&lt;p&gt;ここに作品を並べていく。
 （Bandcamp / SoundCloud / YouTube の埋め込みも後で置ける）&lt;/p&gt;</description>
     </item>
     <item>
       <title>Store</title>
-      <link>http://localhost:1313/store/</link>
+      <link>http://localhost:1313/habric/store/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/store/</guid>
+      <guid>http://localhost:1313/habric/store/</guid>
       <description>&lt;p&gt;物販・DL・支援リンクをまとめる場所。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Bandcamp: （リンク）&lt;/li&gt;

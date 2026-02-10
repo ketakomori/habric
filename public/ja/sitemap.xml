@@ -2,167 +2,168 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/article/first-article/</loc>
+    <loc>http://localhost:1313/habric/article/</loc>
     <lastmod>2026-02-10T17:37:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/article/first-article/"
+                href="http://localhost:1313/habric/en/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/article/first-article/"
+                href="http://localhost:1313/habric/article/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/habric/article/first-article/</loc>
     <lastmod>2026-02-10T17:37:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="http://localhost:1313/habric/en/article/first-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/habric/article/first-article/"
                 />
   </url><url>
-    <loc>http://localhost:1313/notes/first-article/</loc>
+    <loc>http://localhost:1313/habric/</loc>
+    <lastmod>2026-02-10T17:37:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/habric/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/habric/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/habric/notes/first-article/</loc>
     <lastmod>2026-02-10T17:32:53+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/notes/first-article/"
+                href="http://localhost:1313/habric/en/notes/first-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/notes/first-article/"
+                href="http://localhost:1313/habric/notes/first-article/"
                 />
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>http://localhost:1313/habric/notes/</loc>
     <lastmod>2026-02-10T17:32:53+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/notes/"
+                href="http://localhost:1313/habric/en/notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/notes/"
+                href="http://localhost:1313/habric/notes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/notes/first/</loc>
+    <loc>http://localhost:1313/habric/notes/first/</loc>
     <lastmod>2026-02-10T12:20:15+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/notes/first/"
+                href="http://localhost:1313/habric/en/notes/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/notes/first/"
+                href="http://localhost:1313/habric/notes/first/"
                 />
   </url><url>
-    <loc>http://localhost:1313/log/first/</loc>
+    <loc>http://localhost:1313/habric/log/first/</loc>
     <lastmod>2026-02-10T11:59:27+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/log/first/"
+                href="http://localhost:1313/habric/en/log/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/log/first/"
+                href="http://localhost:1313/habric/log/first/"
                 />
   </url><url>
-    <loc>http://localhost:1313/log/</loc>
+    <loc>http://localhost:1313/habric/log/</loc>
     <lastmod>2026-02-10T11:59:27+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/log/"
+                href="http://localhost:1313/habric/en/log/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/log/"
+                href="http://localhost:1313/habric/log/"
                 />
   </url><url>
-    <loc>http://localhost:1313/article/</loc>
+    <loc>http://localhost:1313/habric/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/article/"
+                href="http://localhost:1313/habric/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/article/"
+                href="http://localhost:1313/habric/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/habric/editor/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="http://localhost:1313/habric/en/editor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:1313/habric/editor/"
                 />
   </url><url>
-    <loc>http://localhost:1313/editor/</loc>
+    <loc>http://localhost:1313/habric/music/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/editor/"
+                href="http://localhost:1313/habric/en/music/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/editor/"
+                href="http://localhost:1313/habric/music/"
                 />
   </url><url>
-    <loc>http://localhost:1313/music/</loc>
+    <loc>http://localhost:1313/habric/store/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/music/"
+                href="http://localhost:1313/habric/en/store/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/music/"
+                href="http://localhost:1313/habric/store/"
                 />
   </url><url>
-    <loc>http://localhost:1313/store/</loc>
+    <loc>http://localhost:1313/habric/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/store/"
+                href="http://localhost:1313/habric/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/store/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/habric/tags/"
                 />
   </url>
 </urlset>
