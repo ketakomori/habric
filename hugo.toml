@@ -1,0 +1,66 @@
+baseURL = "http://localhost:1313/"
+title = "Habric"
+
+theme = "PaperMod"
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+
+
+[languages]
+
+  [languages.ja]
+    languageName = "日本語"
+    weight = 1
+
+    [languages.ja.params.homeInfoParams]
+      Title = "日常を編むプラットフォーム"
+      Content = "Habricは人・知識・アイデアを編み込み「より良い生息域」を作るためのプラットフォームです"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+
+    [languages.en.params.homeInfoParams]
+      Title = "A platform for weaving everyday life"
+      Content = "Habric is a platform for weaving knowledge, people, and projects into the fabric of human habitats."
+
+[params]
+  siteTitle = "Habric"
+  customCSS = ["/css/override.css"]
+  disableThemeToggle = true
+  defaultTheme = "dark"
+
+[[languages.ja.menu.main]]
+  name = "Log"
+  pageRef = "/log"
+  weight = 10
+
+
+[[languages.en.menu.main]]
+  name = "Log"
+  pageRef = "/log"
+  weight = 10
+
+[[languages.ja.menu.main]]
+name = "Article"
+pageRef = "/Article"
+weight = 20
+
+[[languages.en.menu.main]]
+name = "Article"
+pageRef = "/Article"
+weight = 20
+
+[[languages.ja.menu.main]]
+name = "Editor"
+pageRef = "/editor"
+weight = 30
+
+[[languages.en.menu.main]]
+name = "Editor"
+pageRef = "/editor"
+weight = 30
+
+
+
+

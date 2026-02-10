@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Habric</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on Habric</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Feb 2026 17:37:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Article</title>
+      <link>http://localhost:1313/en/article/first-article/</link>
+      <pubDate>Tue, 10 Feb 2026 17:37:09 +0900</pubDate>
+      <guid>http://localhost:1313/en/article/first-article/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>What is Habric ?</title>
+      <link>http://localhost:1313/en/notes/first-article/</link>
+      <pubDate>Tue, 10 Feb 2026 17:32:53 +0900</pubDate>
+      <guid>http://localhost:1313/en/notes/first-article/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Note</title>
+      <link>http://localhost:1313/en/notes/first/</link>
+      <pubDate>Tue, 10 Feb 2026 12:20:15 +0900</pubDate>
+      <guid>http://localhost:1313/en/notes/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Log</title>
+      <link>http://localhost:1313/en/log/first/</link>
+      <pubDate>Tue, 10 Feb 2026 11:59:27 +0900</pubDate>
+      <guid>http://localhost:1313/en/log/first/</guid>
+      <description>&lt;p&gt;Nice to meet you. My name is Komori, the editor.&lt;/p&gt;
+&lt;p&gt;I have launched a new space called Habric. At first, I will be running it on my own, but I plan to develop it into an open platform. I sincerely look forward to your support.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Article</title>
+      <link>http://localhost:1313/en/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/article/</guid>
+      <description>&lt;p&gt;A workspace for editing and creative tools.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Editor</title>
+      <link>http://localhost:1313/en/editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/editor/</guid>
+      <description>&lt;h1 id=&#34;profile&#34;&gt;Profile&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;Keta Komori&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/solophoto.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Keita Komori&lt;/p&gt;
+&lt;p&gt;Born March 22, 1999, from Tokyo, Japan.&lt;/p&gt;
+&lt;p&gt;He began producing music as a solo artist after graduating from high school, and in 2024 started performing as the guitarist and vocalist of the alternative rock band “peal,” for which he writes and composes all songs.&lt;/p&gt;
+&lt;p&gt;At university, he studies agricultural engineering within the Faculty of Agriculture. With both a scientific/engineering background and creative practice as his dual foundations, he actively shares his work and ideas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/en/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/music/</guid>
+      <description>&lt;p&gt;A place for releases.
+(Embeds: Bandcamp / SoundCloud / YouTube)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Store</title>
+      <link>http://localhost:1313/en/store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/store/</guid>
+      <description>&lt;p&gt;Links for merch / downloads / support.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bandcamp: (link)&lt;/li&gt;
+&lt;li&gt;BOOTH: (link)&lt;/li&gt;
+&lt;li&gt;BASE/STORES: (link)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+:root {
+  --theme: #0f1f17;        /* background */
+  --entry: #16281f;        /* card background */
+  --primary: #2e6f4f;      /* accent */
+  --secondary: #9fb7a8;    /* secondary text */
+  --tertiary: #1f3a2c;
+  --content: #e6efe9;      /* main text */
+  --border: #274c3a;
+  --hljs-bg: #16281f;
+  --code-bg: #16281f;
+}
+
+.dark {
+  --theme: #0f1f17;
+  --entry: #16281f;
+  --primary: #2e6f4f;
+  --secondary: #9fb7a8;
+  --tertiary: #1f3a2c;
+  --content: #e6efe9;
+  --border: #274c3a;
+}

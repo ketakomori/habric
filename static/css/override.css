@@ -1,0 +1,90 @@
+/* PaperModの上書きに勝つために “強めの指定 + !important” */
+
+:root,
+html,
+body,
+.dark {
+  --theme: #0f1f17 !important;
+  --entry: #16281f !important;
+  --primary: #2e6f4f !important;
+  --secondary: #9fb7a8 !important;
+  --tertiary: #1f3a2c !important;
+  --content: #e6efe9 !important;
+  --border: #274c3a !important;
+  --hljs-bg: #16281f !important;
+  --code-bg: #16281f !important;
+}
+
+/* 変数だけじゃなく “実際の背景” も叩く（これが効く） */
+body {
+  background: #0f1f17 !important;
+  color: #e6efe9 !important;
+}
+
+.header, .nav, .menu, .main, .footer {
+  background: transparent !important;
+}
+
+.post-entry,
+.entry,
+.first-entry,
+.archive-entry,
+.toc,
+code,
+pre {
+  background: #16281f !important;
+  border-color: #274c3a !important;
+}
+
+a { color: #4fa37a !important; }
+a:hover { color: #7bc49d !important; }
+
+/* 文字を白に統一 */
+body,
+.main,
+.content,
+.post-content,
+.post-title,
+.entry-header,
+.entry-content,
+.logo,
+.nav a,
+.menu a,
+.header a,
+h1, h2, h3, h4, h5, h6 {
+  color: #f5f7f6 !important;
+}
+
+/* 補助テキストは少し淡い白 */
+.meta,
+.post-meta,
+.archive-meta,
+.breadcrumbs {
+  color: #cfd8d3 !important;
+}
+
+/* カードをほんのり発光させる（Log/Notes一覧など） */
+.post-entry,
+.first-entry,
+.archive-entry,
+.entry,
+.profile,
+.toc {
+  border-radius: 18px !important;   /* ← これ追加 */
+  border: 1px solid rgba(79, 163, 122, 0.25) !important;
+  box-shadow: 0 0 0 1px rgba(79, 163, 122, 0.10),
+              0 12px 30px rgba(0, 0, 0, 0.35) !important;
+}
+
+
+/* ホバーで少しだけ強く */
+.post-entry:hover,
+.first-entry:hover,
+.archive-entry:hover,
+.entry:hover {
+  border-color: rgba(123, 196, 157, 0.45) !important;
+  box-shadow: 0 0 0 1px rgba(123, 196, 157, 0.18),
+              0 16px 40px rgba(0, 0, 0, 0.42) !important;
+  transform: translateY(-1px);
+  transition: all 160ms ease;
+}

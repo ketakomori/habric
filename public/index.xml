@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Habric</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Habric</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 10 Feb 2026 17:37:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Article</title>
+      <link>http://localhost:1313/article/first-article/</link>
+      <pubDate>Tue, 10 Feb 2026 17:37:09 +0900</pubDate>
+      <guid>http://localhost:1313/article/first-article/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Habricって何？</title>
+      <link>http://localhost:1313/notes/first-article/</link>
+      <pubDate>Tue, 10 Feb 2026 17:32:53 +0900</pubDate>
+      <guid>http://localhost:1313/notes/first-article/</guid>
+      <description>&lt;p&gt;Habric(ハブリックと読みます) = Fabric+Habitat&lt;/p&gt;
+&lt;p&gt;Habricとはなんでしょう？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Note</title>
+      <link>http://localhost:1313/notes/first/</link>
+      <pubDate>Tue, 10 Feb 2026 12:20:15 +0900</pubDate>
+      <guid>http://localhost:1313/notes/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Log</title>
+      <link>http://localhost:1313/log/first/</link>
+      <pubDate>Tue, 10 Feb 2026 11:59:27 +0900</pubDate>
+      <guid>http://localhost:1313/log/first/</guid>
+      <description>&lt;p&gt;初めまして、エディターの小森といいます。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Habricという新しい場所を立ち上げました。初めは自分が一人で運営していきますが、開けたプラットフォームにしていきます。これから何卒よろしくお願いします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Article</title>
+      <link>http://localhost:1313/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/article/</guid>
+      <description>&lt;p&gt;ここに制作ツールや編集環境をまとめていく。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Editor</title>
+      <link>http://localhost:1313/editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/editor/</guid>
+      <description>&lt;h1 id=&#34;profile&#34;&gt;Profile&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;Keta Komori&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/solophoto.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;小森 敬太&lt;/p&gt;
+&lt;p&gt;1999年3月22日生まれ　東京都出身&lt;/p&gt;
+&lt;p&gt;高校卒業とともにソロでの音楽制作を開始、2024年からオルタナティブロックバンド「peal」のGt/Voとして活動開始。全楽曲の作詞・作曲を手がける。&lt;/p&gt;
+&lt;p&gt;大学では農学部で農業土木分野について学ぶ。理工学的なバックグラウンドと創作活動を両輪として情報発信を行なっている。&lt;/p&gt;
+&lt;p&gt;2026年、知識・人・アイデアを「生息域の布地」に織り込むためのオンラインプラットフォーム「Habric」を立ち上げる。&lt;/p&gt;
+&lt;p&gt;Contact: &lt;a href=&#34;mailto:habric.official@gmail.com&#34;&gt;habric.official@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;peal Official Website: &lt;a href=&#34;https://peal-official.com/&#34;&gt;https://peal-official.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;小森敬太 楽曲配信リンク: &lt;a href=&#34;https://www.tunecore.co.jp/artists/Keta-Komori&#34;&gt;https://www.tunecore.co.jp/artists/Keta-Komori&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spotify: &lt;a href=&#34;https://open.spotify.com/intl-ja/artist/3PLCUNBJQZKIYTyEQmnBuy&#34;&gt;https://open.spotify.com/intl-ja/artist/3PLCUNBJQZKIYTyEQmnBuy&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instagram: &lt;a href=&#34;https://www.instagram.com/ketakomori/&#34;&gt;https://www.instagram.com/ketakomori/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;X: &lt;a href=&#34;https://x.com/keta_komori&#34;&gt;https://x.com/keta_komori&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/music/</guid>
+      <description>&lt;p&gt;ここに作品を並べていく。
+（Bandcamp / SoundCloud / YouTube の埋め込みも後で置ける）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Store</title>
+      <link>http://localhost:1313/store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/store/</guid>
+      <description>&lt;p&gt;物販・DL・支援リンクをまとめる場所。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bandcamp: （リンク）&lt;/li&gt;
+&lt;li&gt;BOOTH: （リンク）&lt;/li&gt;
+&lt;li&gt;BASE/STORES: （リンク）&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
