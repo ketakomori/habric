@@ -33,35 +33,35 @@ defaultContentLanguageInSubdir = false
   defaultTheme = "dark"
 
 [[languages.ja.menu.main]]
-  name = "Log"
-  url = "/log"
-  weight = 10
+name = "Log"
+url = "/log/"
+weight = 10
 
 [[languages.ja.menu.main]]
-  name = "Article"
-  url = "/article"
-  weight = 20
+name = "Article"
+url = "/article/"
+weight = 20
 
 [[languages.ja.menu.main]]
-  name = "Editor"
-  url = "/editor"
-  weight = 30
-
-
-[[languages.en.menu.main]]
-  name = "Log"
-  url = "/log"
-  weight = 10
+name = "Editor"
+url = "/editor/"
+weight = 30
 
 [[languages.en.menu.main]]
-  name = "Article"
-  url = "/article"
-  weight = 20
+name = "Log"
+url = "/log/"
+weight = 10
 
 [[languages.en.menu.main]]
-  name = "Editor"
-  url = "/editor"
-  weight = 30
+name = "Article"
+url = "/article/"
+weight = 20
+
+[[languages.en.menu.main]]
+name = "Editor"
+url = "/editor/"
+weight = 30
+
 
 
 
