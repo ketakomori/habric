@@ -14,7 +14,7 @@ He began producing music as a solo artist after graduating from high school, and
 
 At university, he studies agricultural engineering within the Faculty of Agriculture. With both a scientific/engineering background and creative practice as his dual foundations, he actively shares his work and ideas.
 
-In 2026, he launched “Habric,” an online platform designed to weave knowledge, people, and ideas into the “fabric of habitats.”
+In 2026, he launched “Habrikat,” an online platform designed to weave knowledge, people, and ideas into the “fabric of habitats.”
 
 Contact: habric.official@gmail.com
 
